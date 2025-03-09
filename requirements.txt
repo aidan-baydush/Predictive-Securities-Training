@@ -1,0 +1,5 @@
+BeautifulSoup
+numpy
+matplotlib
+sqlalchemy
+
