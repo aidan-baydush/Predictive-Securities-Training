@@ -1,5 +1,6 @@
-BeautifulSoup
+BeautifulSoup4
 numpy
 matplotlib
 sqlalchemy
-
+pytest
+pytest-pycodestyle
